@@ -1,0 +1,7 @@
+Mastermind
+==========
+¡Descubre el codigo secreto! En cada partida, pensare un codigo de
+colores que tendras que adivinar. En cada intento que hagas te
+dare pistas, diciendote cuantos colores de los que has dicho estan
+bien colocados, y cuantos no.
+¡Averigua el codigo secreto en el menor numero posible de intentos!
